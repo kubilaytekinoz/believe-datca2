@@ -14,3 +14,5 @@ Statik, responsive vitrin sitesi. Mockup'taki tasarım dili baz alınmıştır.
 
 ## Instagram
 `#instagramFeed` bölümü hazırdır. Son 6 gönderiyi otomatik çekmek için Instagram Graph API veya uygun bir feed servisi bağlanabilir.
+
+GitHub Pages yayını etkinleştirildi.
